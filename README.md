@@ -54,7 +54,8 @@ The frontend is built with **HTML, CSS, and Tailwind**, while the backend uses *
 - I. Amrutha Varshini  
 - Koonisetti Mahesh  
 - J. DYNS. Gowrish  
-- **M. Bharghav Sai**  
+- M. Bharghav sai
+- **J. DYNS Gowrish**
 
 ---
 
